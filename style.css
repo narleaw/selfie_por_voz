@@ -1,0 +1,31 @@
+#start-btn {
+    width: 40%;
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+
+#logo_img {
+    width: 20%;
+    height: auto;
+    border-radius: 35%;
+}
+
+#textbox {
+    width: 300px;
+}
+
+body {
+
+    background: rgb(215, 247, 245);
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: 'Zeyada', cursive;
+    font-size: 80px;
+    color: rgb(21, 158, 243);
+}
